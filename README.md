@@ -37,4 +37,4 @@ Plain HTML, CSS, and vanilla JavaScript — no build step, no frameworks. Hosted
 
 - Email: abiyapeter01@gmail.com
 - LinkedIn: [linkedin.com/in/peter-abiya](https://linkedin.com/in/peter-abiya)
--
+
